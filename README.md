@@ -1,4 +1,4 @@
-# Solana Ultra-Fast New Token Sniper with Jito Shred Stream 🚀⚡
+# Solana Ultra-Fast New Token Sniper, CopyTrader with Jito Shred Stream 🚀⚡
 
 ## Overview
 
