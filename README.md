@@ -91,7 +91,6 @@ SL=0.5 #50 percentage
 0x1234567890abcdef1234567890abcdef12345678
 0xabcdef1234567890abcdef1234567890abcdef12
 ```
-3. Run `pumpfun_sniper_jitoshred_demo.exe`.
 
 ---
 ### Test Result: Same Block
